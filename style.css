@@ -1,3 +1,26 @@
-body {
-  background-color: salmon;
+  nav{
+  list-style-type: none;
+  background-color: antiquewhite;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text-align: center;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+li{
+  float: left;  
+}
+
+li a {
+  display: block;
+  color: black;
+  tex-decoration: none;
+  padding: 10px 50px;
+}
+
+li a:hover{
+  background-color: #333;
+  color:black;
 }
