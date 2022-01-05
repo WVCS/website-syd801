@@ -24,3 +24,12 @@ li a:hover{
   background-color: #333;
   color:black;
 }
+
+}  
+h3 {
+  color: #243E36;
+  font-size: 350%;
+  letter-spacing: 3px;
+  border: #7CA982 dotted 3px;
+  
+}
